@@ -3,7 +3,7 @@ This shape-shifting cartoon enjoys telling jokes about programming. All you need
 This Joke Teller project that uses a Joke API to fetch a programming joke then it uses a Text To Speech API to read out the fetched jokes to user.
  
 ## Hear the jokes yourselves?
-[Tell Me A Joke](https://cerenpaja.github.io/Joke-Teller)
+[Click here](https://cerenpaja.github.io/Joke-Teller) to hear the jokes!
 
 ## Screenshot
 <img src="screenshot.png" width="700">
