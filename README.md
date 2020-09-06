@@ -1,6 +1,6 @@
 # Joke-Teller
-This shape-shifting cartoon enjoys telling jokes about programming. All you need to do is ask it to tell a joke! Built with HTML5, CSS3 and Javascript
-This Joke Teller project that uses a Joke API to fetch a programming joke then it uses a Text To Speech API to read out the fetched jokes to user.
+This shape-shifting cartoon enjoys telling jokes about programming. All you need to do is ask it to tell a joke! Built with HTML5, CSS3 and Javascript.
+This Joke Teller project uses a Joke API to fetch a programming joke then it uses a Text To Speech API to read out the fetched jokes to user.
  
 ## Hear the jokes yourselves?
 [Click here](https://cerenpaja.github.io/Joke-Teller) to hear the jokes!
